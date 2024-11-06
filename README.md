@@ -9,8 +9,8 @@ analisis de segunda prueba por FG pagina basica de informacion
 
 Además, tengo habilidades en la comunicación efectiva, lo que me permite presentar ideas complejas de manera clara y persuasiva. Estoy comprometido con el aprendizaje continuo y la innovación en el campo económico, y creo firmemente en la importancia de políticas que promuevan el crecimiento inclusivo y sostenible. Estoy preparado para asumir desafíos y contribuir de manera significativa al desarrollo económico de nuestra comunidad.
 
-<p>Aqui mi razon de ser medico.
+<p>Aqui mi razon de ser economista ejemplar.
 <center><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb2hSEZJ4tljXeyBKdhrYSbEe8nYVCfNf8k9n2hit2Z9Cx5RMT" width="500"></center>
-<p> Uno de mis objetivos, ser como el.
+<p> De grande quiero ser como el.
 </body>
 </html>
